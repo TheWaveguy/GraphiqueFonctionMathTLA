@@ -1,8 +1,3 @@
-/**
- * @author Forest Jules
- * @author Haton Tom
- */
-
 package analyseLexicale;
 
 import java.util.ArrayList;

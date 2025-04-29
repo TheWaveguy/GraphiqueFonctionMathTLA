@@ -1,8 +1,3 @@
-/**
- * @author Forest Jules
- * @author Haton Tom
-*/
-
 package main;
 
 import java.awt.Color;

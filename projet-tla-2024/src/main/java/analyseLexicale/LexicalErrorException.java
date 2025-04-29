@@ -1,7 +1,3 @@
-/**
- * @author Forest Jules
- * @author Haton Tom
- */
 package analyseLexicale;
 
 import main.Main;
