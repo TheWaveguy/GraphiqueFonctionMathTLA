@@ -19,3 +19,6 @@ Pour ajuster le zoom, utiliser le slider en haut à droite.
 ATTENTION !!!
 Le symbole " - " a 2 fonctions : la soustraction et le négativité
 Ainsi, afin de pouvoir réaliser la soustraction, il ne faut pas oublier les espaces autour du " - ". La négativité doit être collé au symbole pour être prise en compte.
+
+Bugs :
+- Problème de prise en compte de l'ordre hiérarchique des opérations
